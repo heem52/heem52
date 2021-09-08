@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heem52
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning Full stack Web Development
-- 📫 mail me at hemaddry15-10425@diu.edu.bd
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
+- 📫 mail 
 
 <!---
 heem52/heem52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
